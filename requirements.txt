@@ -1,0 +1,9 @@
+
+llama-cpp-python
+
+
+git+https://github.com/jllllll/GPTQ-for-LLaMa-CUDA.git
+git+https://github.com/huggingface/peft@96c0277a1b9a381b10ab34dbf84917f9b3b992e6
+git+https://github.com/huggingface/transformers@baf1daa58eb2960248fd9f7c3af0ed245b8ce4af
+
+git+https://github.com/jllllll/exllama
